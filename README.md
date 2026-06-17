@@ -1,88 +1,46 @@
-# 100hires-agent-setup
-AI coding agent setup task
-# AI Coding Agent Setup Documentation
+## Topic Chosen
 
-## Tools Installed
-The following tools were installed and configured:
+**LinkedIn Organic Content Strategy for B2B SaaS**
 
-- Cursor IDE
-- Claude Code extension (Anthropic)
-- Codex extension (OpenAI)
-- Git for Windows
-- GitHub for repository hosting and version control
+## Objective
 
-## Research Resources Used
-To troubleshoot unfamiliar setup steps, I used external learning resources as encouraged in the assignment, including:
+The objective of this research project was to study how successful B2B SaaS marketers, founders, and content creators use LinkedIn organic content to build audiences, generate demand, establish thought leadership, and drive business growth.
 
-- YouTube tutorials (for GitHub repository setup, Git installation, and Git push workflow)
-- AI assistance tools for troubleshooting Cursor configuration, extension setup, and command-line errors
-- Official extension documentation where needed
+## Why These Experts Were Selected
 
-This helped me independently resolve blockers and complete the task.
+The selected experts are recognized practitioners in B2B SaaS marketing, content marketing, personal branding, demand generation, and LinkedIn growth. They actively use LinkedIn as a primary channel for audience building and customer acquisition.
 
----
+The experts were chosen because they provide practical insights into:
 
-## Steps Completed
+* Organic LinkedIn growth
+* B2B SaaS demand generation
+* Founder-led marketing
+* Personal branding
+* Content distribution
+* Audience building
+* Customer research
+* Social selling
 
-1. Installed Cursor IDE and opened a workspace.
-2. Installed the Claude Code extension from the extensions marketplace.
-3. Attempted authentication for Claude Code.
-4. Installed the Codex extension.
-5. Successfully authenticated Codex.
-6. Created a public GitHub repository.
-7. Installed Git locally after discovering it was not pre-installed.
-8. Cloned the GitHub repository to the local system.
-9. Opened the cloned repository inside Cursor.
-10. Created the README.md documentation file.
-11. Documented setup steps, challenges, and resolutions.
-12. Committed the changes using Git.
-13. Pushed the repository to GitHub successfully.
+Examples include:
 
----
+* **Justin Welsh** – creator-led businesses and LinkedIn personal branding.
+* **Ross Simmonds** – content distribution and B2B content marketing.
+* **Dave Gerhardt** – B2B SaaS marketing and community-led growth.
+* **Guillaume Moubeche** – founder-led marketing and SaaS growth.
+* **Richard van der Blom** – LinkedIn platform and algorithm insights.
+* **Jasmin Alic** – LinkedIn content creation frameworks.
+* **Lara Acosta** – personal branding and social selling.
+* **Katelyn Bourgoin** – customer research and audience psychology.
+* **Chris Donnelly** – LinkedIn growth systems and creator strategy.
+* **Sam Winsbury** – B2B lead generation and LinkedIn prospecting.
 
-## Issues Encountered and Resolutions
+## Key Learnings
 
-### 1. Cursor Interface Differences
-**Issue:**  
-Cursor’s interface differs from the standard VS Code workflow, which initially made locating the correct extension marketplace and commands less intuitive.
+Across the collected content, several common themes emerged:
 
-**Resolution:**  
-Used workspace mode, command palette navigation, and documentation to access the required extension tools.
-
----
-
-### 2. Git Not Installed
-**Issue:**  
-Git commands were unavailable because Git was not installed on the system.
-
-**Resolution:**  
-Installed Git for Windows, restarted the IDE, and verified installation using:
-`git --version`
-
----
-
-### 3. Claude Code Authentication Limitation
-**Issue:**  
-Claude Code requires either a paid Claude subscription (Pro/Max) or Anthropic API billing access for authentication.
-
-**Resolution:**  
-Completed installation successfully and documented the authentication limitation. Codex was successfully configured as the active authenticated coding agent.
-
----
-
-### 4. Command / Shortcut Differences
-**Issue:**  
-Some expected shortcuts and commands behaved differently within Cursor.
-
-**Resolution:**  
-Used alternate command palette actions and manual navigation to complete the setup.
-
----
-
-## Final Outcome
-Successfully configured the required AI coding environment with:
-
-- Claude Code installed
-- Codex installed and authenticated
-- Git and GitHub repository integration completed
-- Full documentation created and pushed to GitHub
+1. Consistent posting outperforms occasional viral content.
+2. Founder-led content is highly effective for B2B SaaS audience growth.
+3. Content distribution is often more important than content creation.
+4. Customer-focused content generates stronger engagement than product-focused content.
+5. Personal branding and company branding work best when combined.
+6. LinkedIn organic reach can be used to generate inbound leads and build authority within a niche.
