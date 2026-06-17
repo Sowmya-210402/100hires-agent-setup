@@ -34,6 +34,29 @@ Examples include:
 * **Chris Donnelly** – LinkedIn growth systems and creator strategy.
 * **Sam Winsbury** – B2B lead generation and LinkedIn prospecting.
 
+## Research Collected
+
+The repository contains:
+
+* `research/sources.md` – expert profiles, links, and annotations.
+* `research/linkedin-posts/` – LinkedIn posts organized by author.
+* `research/youtube-transcripts/` – YouTube transcripts organized by video.
+* `research/other/` – supporting notes and additional materials.
+* `scripts/find_videos.py` – YouTube video discovery automation.
+* `scripts/get_transcripts.py` – transcript extraction script.
+* `scripts/auto_collect.py` – automated research collection workflow.
+
+## Transcript Collection Notes
+
+Transcript collection was automated using Python, yt-dlp, and youtube-transcript-api.
+
+Transcript data was successfully collected for Justin Welsh and Ross Simmonds and stored under `research/youtube-transcripts/`.
+
+Some videos from other experts did not provide directly accessible English transcripts due to YouTube transcript availability, language restrictions, auto-generated caption limitations, or API access constraints. In those cases, LinkedIn content and other publicly available materials were collected and organized for analysis.
+
+The automation scripts remain reusable and can be extended to collect additional transcripts as they become available.
+
+
 ## Key Learnings
 
 Across the collected content, several common themes emerged:
