@@ -18,7 +18,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 1. Justin Welsh
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/justinwelsh
+\- \*\*LinkedIn:\*\* linkedin.com/in/justinwelsh/
 
 \- \*\*Followers:\*\* 600K+
 
@@ -32,7 +32,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 2. Richard van der Blom
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/richardvanderblom
+\- \*\*LinkedIn:\*\* linkedin.com/in/richardvanderblom/
 
 \- \*\*Followers:\*\* 90K+
 
@@ -46,7 +46,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 3. Lara Acosta
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/laraacosta
+\- \*\*LinkedIn:\*\* linkedin.com/in/laraacostar/
 
 \- \*\*Followers:\*\* 200K+
 
@@ -60,7 +60,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 4. Jasmin Alic
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/jasmin-alic
+\- \*\*LinkedIn:\*\* linkedin.com/in/alicjasmin/
 
 \- \*\*Followers:\*\* 100K+
 
@@ -74,7 +74,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 5. Sam Winsbury
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/samwinsbury
+\- \*\*LinkedIn:\*\* linkedin.com/in/sam-g-winsbury/
 
 \- \*\*Followers:\*\* 60K+
 
@@ -96,7 +96,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 6. Guillaume Moubeche
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/profit-led-growth
+\- \*\*LinkedIn:\*\* linkedin.com/in/guillaume-moubeche-a026541b2/
 
 \- \*\*Followers:\*\* 150K+
 
@@ -110,7 +110,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 7. Chris Donnelly
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/chrisfdonnelly
+\- \*\*LinkedIn:\*\* linkedin.com/in/donnellychris/
 
 \- \*\*Followers:\*\* 500K+
 
@@ -124,7 +124,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 8. Katelyn Bourgoin
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/katelyn-bourgoin
+\- \*\*LinkedIn:\*\* linkedin.com/in/katebour/
 
 \- \*\*Followers:\*\* 60K+
 
@@ -136,15 +136,15 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 
 
-\### 9. Chris Walker
+\### 9. Ross Simmonds
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/chriswalker171
+\- \*\*LinkedIn:\*\* linkedin.com/in/rosssimmonds/
 
 \- \*\*Followers:\*\* 100K+
 
-\- \*\*Why selected:\*\* CEO of Refine Labs. Pioneered the "dark social" and demand generation framework for B2B SaaS. His LinkedIn content directly challenges traditional lead gen and has shifted how B2B SaaS companies think about organic content.
+\- \*\*Why selected:\*\* CEO of Foundation \& Distribution.ai. B2B SaaS content distribution strategist known for data-driven research on how content performs across channels. Creator of the "Create Once, Distribute Forever" framework. Publishes original research on YouTube, Reddit, and AI search for B2B.
 
-\- \*\*Key themes:\*\* Dark social, demand gen, B2B SaaS GTM, pipeline attribution
+\- \*\*Key themes:\*\* Content distribution, B2B SaaS SEO, YouTube strategy, Reddit for B2B, AI search optimization
 
 \- \*\*Content collected:\*\* 3 LinkedIn posts
 
@@ -152,7 +152,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 \### 10. Dave Gerhardt
 
-\- \*\*LinkedIn:\*\* linkedin.com/in/davegerhardt
+\- \*\*LinkedIn:\*\* linkedin.com/in/davegerhardt/
 
 \- \*\*Followers:\*\* 120K+
 
@@ -190,7 +190,7 @@ Experts selected based on three criteria: (1) active practitioners who build pip
 
 | 8 | Katelyn Bourgoin | SaaS Operator | 60K+ | Buyer psychology |
 
-| 9 | Chris Walker | SaaS Operator | 100K+ | Dark social \& demand gen |
+| 9 | |Ross Simmonds | SaaS Operator | 100K+ | Content distribution \& B2B SEO |
 
-| 10 | Dave Gerhardt | SaaS Operator | 120K+ | B2B brand \& Exit Five community |
+| 10| Dave Gerhardt | SaaS Operator | 120K+ | B2B brand \& Exit Five community |
 
